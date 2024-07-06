@@ -1,3 +1,4 @@
+package OOPSinJAVA;
 //import java.util.Arrays;
 
 public class Class2 {

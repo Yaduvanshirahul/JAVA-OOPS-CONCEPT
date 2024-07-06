@@ -1,3 +1,5 @@
+package OOPSinJAVA;
+
 public class Class3 {
 
     static class Student {
