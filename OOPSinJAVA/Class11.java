@@ -1,7 +1,9 @@
 package OOPSinJAVA;
 
 public class Class11 {
-    int rno;
-    String name;
-    double percentage;
+
+    public void sayHI() {
+
+        System.out.println("hi rahul");
+    }
 }
