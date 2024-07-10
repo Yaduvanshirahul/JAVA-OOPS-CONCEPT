@@ -1,5 +1,5 @@
 /* ARRAYLIST : Dynamic Array when the size is full then it double the size itself and remove the old arraylist and copy the value to new ArrayList  
-               add() is used to add data and get() function is used to get the value*/
+               add() is used to add data and get() function is used to get the value and set() function is used to set the new value to previous value*/
 package PACKAGE;
 
 import java.util.ArrayList;
@@ -15,5 +15,7 @@ public class Class2_ArrayList {
         System.out.println(arr.size());
         System.out.println(arr.get(3)); // to get the value at index 3
         System.out.println(arr); // to print the value of ArrayList
+        arr.set(2, 444);
+        System.out.println(arr.get(2));
     }
 }
