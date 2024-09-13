@@ -10,7 +10,7 @@ public class Class2 {
          * the outer class Class2 before you can create an instance of Student
          */
 
-        int rno;
+       public int rno;
         String name;
         float marks = 34;
     }

@@ -1,3 +1,6 @@
+/* Package: Package is collection of classes and sub-classes  */
+
+
 package PACKAGE;
 
 import OOPSinJAVA.Class13;

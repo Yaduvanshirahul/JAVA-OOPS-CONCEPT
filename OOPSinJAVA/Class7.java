@@ -2,9 +2,10 @@ package OOPSinJAVA;
 
 /* CHANGING VALUE OF CLASS BY CALLING FUNCTION */
 public class Class7 {
-
-    String name;
-    double percentage;
+    public static class Student {
+        String name;
+        int rollno;
+        double percentage;
     }
 
     public static void change(Student s) {
