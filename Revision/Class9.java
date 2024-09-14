@@ -1,6 +1,8 @@
 package Revision;
 
-/* Encapsulation -->  */
+/* Encapsulation --> Encapsulation in Java is a mechanism of wrapping the data(variables) and the code acting on the data (methods) together as a single unit.
+ * in encapsulation the variable of a class will be hidden from other classes and can be accessed only through the methods of their current class. Therefore it is also known as data hidding.
+ */
 
 class Human1 {
     private int age;
