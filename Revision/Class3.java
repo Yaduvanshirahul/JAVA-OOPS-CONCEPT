@@ -1,9 +1,9 @@
-package Revision;
 
 public class Class3 {
     public static void main(String[] args) {
         Student s1 = new Student(); /*
-                                     * when new is written a address is given to object in the memory as a storage. The Java new keyword is used to create an instance of the class
+                                     * when new is written a address is given to object in the memory as a storage.
+                                     * The Java new keyword is used to create an instance of the class
                                      */
         s1.name = "rahul";
         s1.age = 22;
