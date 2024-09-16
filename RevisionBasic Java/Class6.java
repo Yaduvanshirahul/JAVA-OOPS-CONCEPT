@@ -2,7 +2,7 @@
  * in c++ we used const keyword.
  * 
  * 1. when we declare a class final then we can't inherit it.
- * 2. when we declare a variavle as final then its value can't change.
+ * 2. when we declare a variable as final then its value can't change.
  * 3. when we make base class method as final then it can override in derive class.
  *  
  */

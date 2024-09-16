@@ -1,4 +1,3 @@
-package OOPSinJAVA;
 
 public class Class1 {
 

@@ -1,4 +1,4 @@
-package Revision;
+
 /* Access Modifier  --> The access modifiers in Java specifies the accessibility or scope of a field, method, constructor, or class. We can change the access level of fields, constructors, methods, and class by applying the access modifier on it.*/
 
 class MyEmployee {

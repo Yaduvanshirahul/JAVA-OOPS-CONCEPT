@@ -1,7 +1,5 @@
 /* Anonymous Inner Class */
 
-package Revision;
-
 class A {
     public void show() {
         System.out.println("in A show");

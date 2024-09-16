@@ -1,4 +1,4 @@
-package Revision;
+
 /* Copy Constructor -> in java it is a special type of method, which is having same name as of class having parameters reference type/non primitive. it is used to construct an object by copying another class object.*/
 
 class Test {
@@ -32,5 +32,9 @@ public class Class8 {
     }
 }
 
-
-/* Destructor -> in c++ destructor is used to deallocate the memory which is allocate by object  which is dynamically assign. But in java there is not any such kind of destructor. In java there is garabage collector which automatically deallocate the memory while memory usage is over.*/
+/*
+ * Destructor -> in c++ destructor is used to deallocate the memory which is
+ * allocate by object which is dynamically assign. But in java there is not any
+ * such kind of destructor. In java there is garabage collector which
+ * automatically deallocate the memory while memory usage is over.
+ */

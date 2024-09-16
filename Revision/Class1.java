@@ -1,4 +1,4 @@
-package Revision;
+/* Basic of Class and Object */
 
 class Pen {
     String color;

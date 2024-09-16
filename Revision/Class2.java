@@ -1,4 +1,3 @@
-package Revision;
 
 class Pen {
     String color;

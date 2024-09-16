@@ -1,5 +1,4 @@
 //  QUESTION : Create a Class of Fraction 
-package OOPSinJAVA;
 
 public class Class21_Question {
 

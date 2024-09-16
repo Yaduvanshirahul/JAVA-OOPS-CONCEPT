@@ -3,10 +3,6 @@
 1. If we want to call the object of Class B then we need the object of the Class A
 2. we can make a inline class as static class and then we don't need to create the object of inline class.*/
 
-package Revision;
-
-import Revision.A.B;
-
 class A {
     int a = 10;
 
@@ -40,6 +36,7 @@ public class Class16 {
     }
 }
 
-/* A ob = new B()
+/*
+ * A ob = new B()
  * A -> reference of A, B() -> object of class B is created
  */

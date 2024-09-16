@@ -1,4 +1,3 @@
-package OOPSinJAVA;
 
 /* CHANGING VALUE OF CLASS BY CALLING FUNCTION */
 public class Class7 {
