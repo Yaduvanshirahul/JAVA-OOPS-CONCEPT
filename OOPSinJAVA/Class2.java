@@ -1,4 +1,4 @@
-package OOPSinJAVA;
+// package OOPSinJAVA;
 //import java.util.Arrays;
 
 public class Class2 {
