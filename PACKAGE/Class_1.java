@@ -3,11 +3,9 @@
 
 package PACKAGE;
 
-import OOPSinJAVA.Class13;
-
 public class Class_1 {
     public static void main(String[] args) {
-        Class13 s = new Class13();
+        Multilevelinheritance s = new Multilevelinheritance();
         System.out.println("Learn outside packagae in thesse code");
 
         /*

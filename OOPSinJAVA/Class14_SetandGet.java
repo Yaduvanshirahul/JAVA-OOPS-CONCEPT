@@ -2,7 +2,7 @@ package OOPSinJAVA;
 
 public class Class14_SetandGet {
     public static void main(String[] args) {
-        Class15 s = new Class15();
+        Abstraction s = new Abstraction();
 
         /*
          * Can't access the s.rno as it is private in Class15 so we use getter function
